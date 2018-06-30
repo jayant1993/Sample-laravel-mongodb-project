@@ -12,7 +12,7 @@ Sample Laravel project with mongodb support
 * Create a database and inform *.env*
 * `php artisan serve` to start the app on http://localhost:8000/
 
-Another way to install it is to download and upload [this package](https://github.com/jayant1993/Sample-laravel-mongodb-project), unpack it in your server folder, and just launch it and follow the above installation process.
+Another way to install it is to download and upload [this package](https://github.com/jayant1993/Sample-laravel-mongodb-project/archive/master.zip), unpack it in your server folder, and just launch it and follow the above installation process.
 
 ## Usage ##
 
