@@ -16,13 +16,14 @@ Another way to install it is to download and upload [this package](https://githu
 
 ## Usage ##
 
-### Create Model ###
+#### Create Model ####
 
-`use Moloquent\Eloquent\Model as Eloquent;
+```
+use Moloquent\Eloquent\Model as Eloquent;
+class User extends Eloquent {}
+```
 
-class User extends Eloquent {}`
-
-follow instructions from <a href="https://moloquent.github.io/master/basic/">moloquent website</a>
+follow other instructions from <a href="https://moloquent.github.io/master/basic/">moloquent website</a>
 
 
 ## Packages included ##
