@@ -14,9 +14,6 @@ Sample Laravel project with mongodb support
 
 Another way to install it is to download and upload [this package](http://laravel.sillo.org/tuto/installable.zip), unpack it in your server folder, and just launch it and follow the above installation process.
 
-### Nitrous Quickstart ###
-
-
 ### Usage ###
 
 # Create Model #
