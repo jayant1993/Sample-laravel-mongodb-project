@@ -1,8 +1,8 @@
-### Laravel 5 with MongoDB ###
+# Laravel 5 with MongoDB #
 
 Sample Laravel project with mongodb support 
 
-### Installation ###
+## Installation ##
 
 * `git clone git@github.com:jayant1993/Sample-laravel-mongodb-project.git projectname`
 * `cd projectname`
@@ -14,9 +14,9 @@ Sample Laravel project with mongodb support
 
 Another way to install it is to download and upload [this package](http://laravel.sillo.org/tuto/installable.zip), unpack it in your server folder, and just launch it and follow the above installation process.
 
-### Usage ###
+## Usage ##
 
-# Create Model #
+### Create Model ###
 
 `use Moloquent\Eloquent\Model as Eloquent;
 
@@ -25,7 +25,7 @@ class User extends Eloquent {}`
 follow instructions from <a href="https://moloquent.github.io/master/basic/">moloquent website</a>
 
 
-### Packages included ###
+## Packages included ##
 
 * moloquent/moloquent
 
